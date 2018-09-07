@@ -3,6 +3,8 @@
 #include <stdio.h>
 #include <math.h>
 
+void funcion_cualquiera(float a, int b, bool c);
+
 int main()
 {
     printf("Hola mundo\n");
