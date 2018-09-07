@@ -3,7 +3,11 @@
 #include <stdio.h>
 #include <math.h>
 
+
 // otra modificación...nueva versión 1.5
+
+//Sobreponer estos cambios nuevamente
+
 
 int main()
 {
