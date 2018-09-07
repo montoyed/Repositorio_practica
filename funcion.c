@@ -4,11 +4,15 @@
 #include <math.h>
 
 
-// otra modificación...nueva versión 1.5
+// otra modificaciï¿½n...nueva versiï¿½n 1.5
 
 //Sobreponer estos cambios nuevamente
 
 void funcion_cualquiera(float a, int b, bool c);
+// Agregada otra modificacion para pruebas
+void funcion_cualquiera(float a, int b, bool c){
+  for (;;){}
+}
 
 int main()
 {
