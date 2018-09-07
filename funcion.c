@@ -8,6 +8,7 @@
 
 //Sobreponer estos cambios nuevamente
 
+void funcion_cualquiera(float a, int b, bool c);
 
 int main()
 {
