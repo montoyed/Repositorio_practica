@@ -3,7 +3,10 @@
 #include <stdio.h>
 #include <math.h>
 
-void funcion_cualquiera(float a, int b, bool c);
+// Agregada otra modificacion para pruebas
+void funcion_cualquiera(float a, int b, bool c){
+  for (;;){}
+}
 
 int main()
 {
